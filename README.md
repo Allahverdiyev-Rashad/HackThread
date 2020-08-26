@@ -32,3 +32,6 @@ https://www.hackerrank.com/challenges/python-tuples/problem
 
 HackThread #12:
 https://www.hackerrank.com/challenges/finding-the-percentage/problem
+
+HackThread #nested_list
+https://www.hackerrank.com/challenges/nested-list/problem
